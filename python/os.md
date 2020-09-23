@@ -1,4 +1,5 @@
 ## python os 模块的常用操作
+
 ### 使用 os.path 模块中的函数来操作路径名。
 
 ```
@@ -25,4 +26,10 @@
 >>> # Split the file extension 
 >>> os.path.splitext(path) 
 ('~/Data/data', '.csv')
+```
+
+## 获取文件系统中某个目录下的所有文件列表。
+
+```
+
 ```
